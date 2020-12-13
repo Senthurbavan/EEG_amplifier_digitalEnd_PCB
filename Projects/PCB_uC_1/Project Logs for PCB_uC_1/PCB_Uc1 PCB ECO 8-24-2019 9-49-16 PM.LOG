@@ -1,0 +1,6 @@
+Added Component: Designator=S2(450301014042)
+Added Pin To Net: NetName=BAT Pin=S2-1
+Added Pin To Net: NetName=NetP12_1 Pin=P12-1
+Added Pin To Net: NetName=NetP12_1 Pin=S2-2
+Added Net: Name=NetP12_1
+Added Member To Class: ClassName=Sheet1 Member=Component S2 450301014042

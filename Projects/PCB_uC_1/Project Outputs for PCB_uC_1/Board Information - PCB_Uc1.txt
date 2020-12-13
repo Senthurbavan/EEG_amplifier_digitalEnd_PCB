@@ -1,0 +1,164 @@
+Board Information Report
+Filename     : C:\Users\User\Documents\Altium\Projects\PCB_uC_1\PCB_Uc1.PcbDoc
+Date         : 8/31/2019
+Time         : 5:00:28 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 100mmx100mm
+    Components on board, 37
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 174
+    Connections routed, 174
+    Connections remaining, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 129, 0, 584, 0, 0, 0, 0
+    Bottom Layer, 0, 0, 0, 154, 0, 0, 0, 0
+    Mechanical 1, 0, 0, 0, 0, 0, 0, 0, 12
+    Mechanical 11, 0, 0, 0, 4, 0, 0, 0, 0
+    Mechanical 13, 1, 0, 0, 28, 0, 0, 0, 6
+    Mechanical 15, 0, 0, 0, 36, 0, 0, 0, 0
+    Multi-Layer, 0, 128, 19, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 4, 0, 0, 129, 86, 0, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 16
+
+Drill Pairs, Vias
+    Top Layer - Bottom Layer, 19
+count : 1
+
+Non-Plated Hole Size, Pads, Vias
+count : 0
+
+Plated Hole Size, Pads, Vias
+    0mm, 129, 0
+    0.7112mm, 0, 19
+    0.8mm, 2, 0
+    0.9mm, 119, 0
+    1mm, 7, 0
+count : 5
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+count : 0
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Top Layer Annular Ring Size, Count
+    0.4mm, 3
+    0.5mm, 4
+    0.5588mm, 19
+    0.6mm, 121
+count : 4
+
+Mid Layer Annular Ring Size, Count
+    0.4mm, 3
+    0.5mm, 4
+    0.5588mm, 19
+    0.6mm, 121
+count : 4
+
+Bottom Layer Annular Ring Size, Count
+    0.4mm, 3
+    0.5mm, 4
+    0.5588mm, 19
+    0.6mm, 121
+count : 4
+
+Pad Solder Mask, Count
+    0.1016mm, 257
+count : 1
+
+Pad Paste Mask, Count
+    0mm, 257
+count : 1
+
+Pad Pwr/Gnd Expansion, Count
+    0.508mm, 257
+count : 1
+
+Pad Relief Conductor Width, Count
+    0.254mm, 257
+count : 1
+
+Pad Relief Air Gap, Count
+    0.254mm, 257
+count : 1
+
+Pad Relief Entries, Count
+    4, 257
+count : 1
+
+Via Solder Mask, Count
+    0.1016mm, 19
+count : 1
+
+Via Pwr/Gnd Expansion, Count
+    0.508mm, 19
+count : 1
+
+Track Width, Count
+    0.05mm, 8
+    0.1mm, 56
+    0.127mm, 8
+    0.2mm, 92
+    0.2032mm, 20
+    0.254mm, 542
+    0.3048mm, 6
+    0.4mm, 203
+count : 8
+
+Arc Line Width, Count
+    0.1mm, 1
+    0.127mm, 1
+    0.25mm, 2
+    0.6mm, 1
+count : 4
+
+Arc Radius, Count
+    0.125mm, 2
+    0.3mm, 1
+    0.5mm, 1
+    1.75mm, 1
+count : 4
+
+Arc Degrees, Count
+    360, 5
+count : 1
+
+Text Height, Count
+    1.27mm, 12
+    1.524mm, 74
+count : 2
+
+Text Width, Count
+    0.2032mm, 12
+    0.254mm, 74
+count : 2
+
+Net Track Width, Count
+    0.254mm, 73
+    0.3mm, 4
+count : 2
+
+Net Via Size, Count
+    1.27mm, 77
+count : 1

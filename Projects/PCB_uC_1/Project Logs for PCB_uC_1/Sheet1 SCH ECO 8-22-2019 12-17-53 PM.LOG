@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=R2 Old Footprint=SMD-0805-RES New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=C1 Old Footprint=SMD-0805C New Footprint=RAD-0.3
+Change Component Footprint: Designator=C2 Old Footprint=SMD-0805C New Footprint=RAD-0.3
+Change Component Footprint: Designator=C3 Old Footprint=SMD-0805C New Footprint=RAD-0.3
+Change Component Footprint: Designator=C4 Old Footprint=SMD-0805C New Footprint=RAD-0.3
+Change Component Footprint: Designator=C5 Old Footprint=SMD-0805C New Footprint=RAD-0.3
+Change Component Footprint: Designator=C8 Old Footprint=SMD-0805C New Footprint=RAD-0.3
+Change Component Comment: Designator=C1 Old Comment==VALUE New Comment=Cap
+Change Component Comment: Designator=C2 Old Comment==VALUE New Comment=Cap
+Change Component Comment: Designator=C3 Old Comment==VALUE New Comment=Cap
+Change Component Comment: Designator=C4 Old Comment==VALUE New Comment=Cap
+Change Component Comment: Designator=C5 Old Comment==VALUE New Comment=Cap
+Change Component Comment: Designator=C8 Old Comment==VALUE New Comment=Cap
+Change Component Comment: Designator=R2 Old Comment==VALUE New Comment=Res1

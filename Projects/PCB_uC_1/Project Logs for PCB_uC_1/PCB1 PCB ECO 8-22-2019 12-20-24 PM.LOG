@@ -1,0 +1,27 @@
+Change Component DesignItemId : Designator=C1 Old DesignItemId=Cap New DesignItemId=GCD21BR71H104KA01L
+Change Component DesignItemId : Designator=C2 Old DesignItemId=Cap New DesignItemId=GCD21BR71H104KA01L
+Change Component DesignItemId : Designator=C3 Old DesignItemId=Cap New DesignItemId=GCD21BR71H104KA01L
+Change Component DesignItemId : Designator=C4 Old DesignItemId=Cap New DesignItemId=GCD21BR71H104KA01L
+Change Component DesignItemId : Designator=C5 Old DesignItemId=Cap New DesignItemId=GCD21BR71H104KA01L
+Change Component DesignItemId : Designator=C8 Old DesignItemId=Cap New DesignItemId=GCD21BR71H104KA01L
+Change Component DesignItemId : Designator=C10 Old DesignItemId=Cap Semi New DesignItemId=GCJ31CR71H225KA12L
+Change Component DesignItemId : Designator=C11 Old DesignItemId=Cap Semi New DesignItemId=GCJ31CR71H225KA12L
+Change Component DesignItemId : Designator=R2 Old DesignItemId=Res1 New DesignItemId=ERJ-6ENF1000V
+Change Component Footprint: Designator=R2 Old Footprint=AXIAL-0.3 New Footprint=SMD-0805-RES
+Change Component Footprint: Designator=C1 Old Footprint=RAD-0.3 New Footprint=SMD-0805C
+Change Component Footprint: Designator=C2 Old Footprint=RAD-0.3 New Footprint=SMD-0805C
+Change Component Footprint: Designator=C3 Old Footprint=RAD-0.3 New Footprint=SMD-0805C
+Change Component Footprint: Designator=C4 Old Footprint=RAD-0.3 New Footprint=SMD-0805C
+Change Component Footprint: Designator=C5 Old Footprint=RAD-0.3 New Footprint=SMD-0805C
+Change Component Footprint: Designator=C8 Old Footprint=RAD-0.3 New Footprint=SMD-0805C
+Change Component Comment : Designator=C1 Old Comment=Cap New Comment=0.10µF
+Change Component Comment : Designator=C2 Old Comment=Cap New Comment=0.10µF
+Change Component Comment : Designator=C3 Old Comment=Cap New Comment=0.10µF
+Change Component Comment : Designator=C4 Old Comment=Cap New Comment=0.10µF
+Change Component Comment : Designator=C5 Old Comment=Cap New Comment=0.10µF
+Change Component Comment : Designator=C8 Old Comment=Cap New Comment=0.10µF
+Change Component Comment : Designator=R2 Old Comment=Res1 New Comment=100
+Change Component Description : Designator=C10 Old Description=Capacitor (Semiconductor SIM Model) New Description=CAP CER 2.2UF 50V X7R 1206
+Change Component Description : Designator=C11 Old Description=Capacitor (Semiconductor SIM Model) New Description=CAP CER 2.2UF 50V X7R 1206
+Change Component Library : Designator=C10 Old Library=Miscellaneous Devices.IntLib New Library=capacitor_murata_1206.IntLib
+Change Component Library : Designator=C11 Old Library=Miscellaneous Devices.IntLib New Library=capacitor_murata_1206.IntLib

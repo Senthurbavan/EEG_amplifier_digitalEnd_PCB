@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C10 Old Footprint=SMD-1206C New Footprint=C1206
+Change Component Footprint: Designator=C11 Old Footprint=SMD-1206C New Footprint=C1206
+Change Component Comment: Designator=C10 Old Comment==VALUE New Comment=Cap Semi
+Change Component Comment: Designator=C11 Old Comment==VALUE New Comment=Cap Semi
